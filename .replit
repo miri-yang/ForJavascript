@@ -1,1 +1,2 @@
-run = "index.html"
+language = "python"
+run = "python info.py"
