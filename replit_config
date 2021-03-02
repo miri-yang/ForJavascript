@@ -1,0 +1,8 @@
+* JAVA
+run = "javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . Main.java \n java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* Main"
+
+* Python
+run="python main.py"
+
+* HTML,CSS,JS
+run = "index.html"
